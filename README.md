@@ -18,13 +18,7 @@
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/InnovativeSumit/innovativesumit/blob/output/snake.svg" />
 
-</p>
-
----
 
 ### 🔥 About Me
 I'm a creative tech enthusiast passionate about:
@@ -86,6 +80,14 @@ I'm open to collaboration on:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,figma,python,c,cpp,java,mysql,mongodb,php,ruby,graphql,git,github,flutter,firebase,opencv,tensorflow,aws,gcp,kotlin,vscode,arduino" />
 </p>
+
+---
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/InnovativeSumit/innovativesumit/blob/output/snake.svg" />
+
+</p>
+
 
 
 
