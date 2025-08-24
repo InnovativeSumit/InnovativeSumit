@@ -67,84 +67,12 @@ I'm open to collaboration on:
 
 ### 💡 Fun Fact
 > I built a mini robot that followed voice commands—and danced when it completed tasks! 🤖💃
-
+> 
 
 
 ### 🧰 Languages & Tools
-
-#### 1️⃣ Frontend Web
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,nuxtjs,svelte,solid,tailwind,bootstrap,materialui,vite,webpack,threejs" />
-</p>
-
-#### 2️⃣ Backend Web
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,nestjs,php,laravel,ruby,rails,go,rust,cs,java,spring" />
-</p>
-
-#### 3️⃣ Full-Stack Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=graphql,apollo,rest,blitz,remix" />
-</p>
-
-#### 4️⃣ Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio" />
-</p>
-
-#### 5️⃣ Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,go,rust,php,ruby,dart,kotlin,swift" />
-</p>
-
-#### 6️⃣ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,firebase,redis,elasticsearch" />
-</p>
-
-#### 7️⃣ Cloud Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,heroku,netlify,vercel" />
-</p>
-
-#### 8️⃣ DevOps & Containers
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,terraform" />
-</p>
-
-#### 9️⃣ Version Control & Collaboration
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" />
-</p>
-
-#### 🔟 AI / ML / Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
-</p>
-
-#### 1️⃣1️⃣ Design & Prototyping
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,xd,blender" />
-</p>
-
-#### 1️⃣2️⃣ Game Development
-<p>
-  <img src="https://skillicons.dev/icons?i=unity,unreal" />
-</p>
-
-#### 1️⃣3️⃣ Package Managers
-<p>
-  <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm" />
-</p>
-
-#### 1️⃣4️⃣ Operating Systems & Shells
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,powershell" />
-</p>
-
-#### 1️⃣5️⃣ IDEs & Editors
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,phpstorm" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,nuxtjs,solid,tailwind,bootstrap,materialui,vite,webpack,threejs,nodejs,express,django,flask,fastapi,nestjs,npm,yarn,pnpm,mysql,postgresql,mongodb,firebase,redis,aws,gcp,azure,netlify,vercel,python,docker,kubernetes,jenkins,ansible,terraform,docker,kubernetes,jenkins,ansible,terraform,c,cpp,java,laravel,ruby,rails,go,rust,java,spring,graphql,apollo,remix,flutter,dart,kotlin,swift,androidstudio,git,github,gitlab,bitbucket,figma,blender,linux,bash,powershell,vscode,arduino" />
 </p>
 
 
