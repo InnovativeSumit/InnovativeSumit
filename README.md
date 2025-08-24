@@ -57,7 +57,22 @@ I'm open to collaboration on:
 
 
 ### 💡 Fun Fact
-> I built a mini robot that followed voice commands—and danced when it completed tasks! 🤖💃
+>
+# 🚀 Project Overview  
+
+The **Smart Plastic Separation Car** is an autonomous and intelligent waste management system that integrates **AI, IoT, and Robotics** for efficient plastic segregation.  
+
+### 🔧 Key Features  
+- 📸 **ESP32-CAM with Machine Learning** → Detects and classifies plastics into **dry and wet** categories with high accuracy.  
+- 🤖 **6-DOF Robotic Arm** → Controlled via servo motors to physically sort plastics based on AI classification.  
+- 🌍 **Environmental Sensors** → Soil moisture, temperature, and ultrasonic sensors monitor surroundings and garbage bin status.  
+- 📡 **IoT Integration** → Real-time data streaming to a web dashboard for remote monitoring and performance tracking.  
+- 🚗 **Autonomous Vehicle Base** → Enables controlled navigation for improved reach and efficiency in plastic collection.  
+- ⚡ **Scalable & Sustainable** → Combines sensor feedback, AI vision, and robotics for eco-friendly waste management.  
+
+### 📜 Patent Status  
+> This project has already been **filed for patent**.  
+
 > 
 
 
