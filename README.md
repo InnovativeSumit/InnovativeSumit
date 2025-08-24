@@ -70,7 +70,6 @@ I'm open to collaboration on:
 </p>
 
 
-
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/InnovativeSumit/innovativesumit/blob/output/snake.svg" />
