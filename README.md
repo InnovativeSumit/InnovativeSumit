@@ -16,6 +16,32 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovativesumit&layout=compact&theme=radical&card_width=400" width="400" height="200" alt="Top Languages"/>
 </p>
 
+---
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://twitter.com/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sumit pal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/sumittech_360" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.youtube.com/c/sumittech_360" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
+<a href="https://www.leetcode.com/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white"/></a>
+</p>
+
+
+### 🧰 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,figma,python,c,cpp,java,mysql,mongodb,php,ruby,graphql,git,github,flutter,firebase,opencv,tensorflow,aws,gcp,kotlin,vscode,arduino" />
+</p>
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/InnovativeSumit/innovativesumit/blob/output/snake.svg" />
+
+</p>
+
+
 
 ### 🔥 About Me
 I'm a creative tech enthusiast passionate about:
@@ -47,30 +73,6 @@ I'm open to collaboration on:
 - Frontend and backend web apps
 - UI/UX design & improvements
 - Robotics and automation projects
-
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://twitter.com/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-<a href="https://linkedin.com/in/sumit pal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/sumittech_360" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.youtube.com/c/sumittech_360" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
-<a href="https://www.leetcode.com/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white"/></a>
-</p>
-
-
-### 🧰 Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,figma,python,c,cpp,java,mysql,mongodb,php,ruby,graphql,git,github,flutter,firebase,opencv,tensorflow,aws,gcp,kotlin,vscode,arduino" />
-</p>
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/InnovativeSumit/innovativesumit/blob/output/snake.svg" />
-
-</p>
 
 
 
