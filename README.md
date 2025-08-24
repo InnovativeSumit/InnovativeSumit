@@ -35,9 +35,23 @@
 
 ### 🧰 Languages & Tools
 <p align="left">
-  <!-- Skillicons.dev (original set) -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,figma,python,c,cpp,java,mysql,mongodb,php,ruby,graphql,git,github,flutter,firebase,opencv,tensorflow,numpy,pandas,jupyter,pytorch,kubernetes,kernel,anaconda,docker,aws,gcp,kotlin,vscode,arduino" />
+  <!-- Skillicons.dev (works fine) -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,figma,python,c,cpp,java,mysql,mongodb,php,ruby,graphql,git,github,flutter,firebase,opencv,tensorflow,aws,gcp,kotlin,vscode,arduino,docker,kubernetes" />
+
+  <!-- Custom Logos (not available in skillicons.dev) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="48" alt="Anaconda"/>
+  <img src="https://cdn.jsdelivr.net/gh/valohai/ml-logos/blob/master/keras.svg" height="48" alt="Keras"/>
+  <img src="https://cdn.jsdelivr.net/gh/scikit-learn/scikit-learn.github.io/main/logos/scikit-learn-logo-notext.svg" height="48" alt="Scikit-learn"/>
+  <img src="https://matplotlib.org/_static/images/logo2.svg" height="48" alt="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="48" alt="Seaborn"/>
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="48" alt="LangChain"/>
+  <img src="https://raw.githubusercontent.com/microsoft/semantic-kernel/main/images/rag-icon.png" height="48" alt="RAG"/>
 </p>
+
 
 
 ### 🐍 Contribution Snake
