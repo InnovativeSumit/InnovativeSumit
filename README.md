@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello World, I'm Sumit Pal!</h1>
-<h3 align="center">💻 Frontend Developer | 🐍 Python Enthusiast | 🎨 UI/UX Designer | 🤖 Robotics & RPA Explorer</h3>
+<h1 align="center">👋 Hello World, I'm SUMIT PAL!</h1>
+<h3 align="center">💻 Fill Stack Web Developer | 🐍 Python Enthusiast | 🎨 UI/UX Designer | 🤖 Robotics & RPA Explorer</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Passionate+about+Tech+%26+Creativity;Always+Building+%26+Learning!" alt="Typing SVG" />
 </p>
@@ -8,6 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=innovativesumit&label=👀%20Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
+---
 
 ### 📊 GitHub Stats
 <p align="center">
