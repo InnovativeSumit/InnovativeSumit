@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hello World, I'm SUMIT PAL!</h1>
 
 <h3 align="center">💻 Fill Stack Web Developer | 🐍 Python Enthusiast | 🎨 UI/UX Designer | 🤖 Robotics & RPA Explorer</h3>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Passionate+about+Tech+%26+Creativity;Always+Building+%26+Learning!" alt="Typing SVG" />
 </p>
@@ -26,8 +27,6 @@
 <a href="https://instagram.com/sumittech_360" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.youtube.com/c/sumittech_360" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
 <a href="https://twitter.com/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a
-<!-- <a href="https://www.codechef.com/users/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/></a> -->
-<!-- <a href="https://www.hackerrank.com/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white"/></a> -->
 </p>
 
 
@@ -38,6 +37,8 @@ I'm a creative tech enthusiast passionate about:
 - 🤖 Innovating in Robotics and RPA
 - 📐 Practicing UI/UX design principles
 - 🤖 Automating tasks with Prompt Engineering
+
+  
 
 ### 🌱 Currently Learning
 - ⚛ React, Next.js, and UI frameworks
@@ -55,19 +56,26 @@ I'm open to collaboration on:
 - UI/UX design & improvements
 - Robotics and automation projects
 
+
+
 ### 📫 Reach Me At
 - Email: sumit2022pal@gmail.com
-- Portfolio: [🌐 My Portfolio Website](https://innovativesumit.github.io/SUMIT-S-PORTFOLIO-1ST-YEAR/)
+- Portfolio: [🌐 My Portfolio Website](https://sumit-portfolio-green.vercel.app/)
 - GitHub Projects: [📁 Explore Here](https://github.com/InnovativeSumit?tab=repositories)
+
+
 
 ### 💡 Fun Fact
 > I built a mini robot that followed voice commands—and danced when it completed tasks! 🤖💃
+
+
 
 ### 🧰 Languages & Tools
 <p align="left">
   <!-- Skillicons.dev (works fine) -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,figma,python,c,cpp,java,mysql,mongodb,php,ruby,graphql,git,github,flutter,firebase,opencv,tensorflow,aws,gcp,kotlin,vscode,arduino,docker,kubernetes" />
 </p>
+
 
 
 ### 🐍 Contribution Snake
