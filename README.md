@@ -62,7 +62,6 @@ I'm open to collaboration on:
 ### 💡 Fun Fact  
 >I made the **Smart Plastic Separation Car**, an autonomous and intelligent waste management system that integrates **AI, IoT, and Robotics** for efficient plastic segregation.  
 
----
 
 <blockquote style="background-color:#e6f2ff; border-left: 6px solid #1e90ff; padding: 12px; border-radius: 8px;">  
 <h3>🔧 Key Features</h3>  
@@ -75,7 +74,7 @@ I'm open to collaboration on:
 - ⚡ Provides a **scalable and sustainable approach** to waste management by combining AI vision, robotics, and sensor feedback.  
 </blockquote>  
 
----
+
 
 <blockquote style="background-color:#e6f2ff; border-left: 6px solid #1e90ff; padding: 12px; border-radius: 8px;">  
 <h3>📜 Patent Status</h3>  
