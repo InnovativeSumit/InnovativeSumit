@@ -8,16 +8,12 @@
   <img src="https://komarev.com/ghpvc/?username=innovativesumit&label=👀%20Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
----
 
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=innovativesumit&show_icons=true&theme=radical&card_width=400" width="400" height="200" alt="Sumit's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovativesumit&layout=compact&theme=radical&card_width=400" width="400" height="200" alt="Top Languages"/>
 </p>
-
----
-
 
 
 ### 🔥 About Me
@@ -27,11 +23,6 @@ I'm a creative tech enthusiast passionate about:
 - 🤖 Innovating in Robotics and RPA
 - 📐 Practicing UI/UX design principles
 - 🤖 Automating tasks with Prompt Engineering
-
----
-
-### 🚀 Currently Working On
-- 🔭 [SMART-SEP](https://github.com/InnovativeSumit/SMART-SEP) — A smart waste segregation and automation system.
 
 ### 🌱 Currently Learning
 - ⚛ React, Next.js, and UI frameworks
@@ -43,24 +34,18 @@ I'm a creative tech enthusiast passionate about:
 ### 💡 Fun Fact
 > I built a mini robot that followed voice commands—and danced when it completed tasks! 🤖💃
 
----
+
 
 ### 📫 Reach Me At
 - Email: sumit2022pal@gmail.com
 - Portfolio: [🌐 My Portfolio Website](https://innovativesumit.github.io/SUMIT-S-PORTFOLIO-1ST-YEAR/)
 - GitHub Projects: [📁 Explore Here](https://github.com/InnovativeSumit?tab=repositories)
 
----
-
 ### 🤝 Let's Collaborate
 I'm open to collaboration on:
 - Frontend and backend web apps
 - UI/UX design & improvements
 - Robotics and automation projects
-
-[🔗 Help me with SMART-SEP!](https://github.com/InnovativeSumit/SMART-SEP)
-
----
 
 ### 🌐 Connect with Me
 <p align="left">
@@ -74,14 +59,12 @@ I'm open to collaboration on:
 <a href="https://www.leetcode.com/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white"/></a>
 </p>
 
----
 
 ### 🧰 Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,figma,python,c,cpp,java,mysql,mongodb,php,ruby,graphql,git,github,flutter,firebase,opencv,tensorflow,aws,gcp,kotlin,vscode,arduino" />
 </p>
 
----
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/InnovativeSumit/innovativesumit/blob/output/snake.svg" />
