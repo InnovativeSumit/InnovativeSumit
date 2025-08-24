@@ -28,38 +28,7 @@
 <a href="https://twitter.com/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a
 <!-- <a href="https://www.codechef.com/users/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/></a> -->
 <!-- <a href="https://www.hackerrank.com/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white"/></a> -->
-
-
 </p>
-
-
-### 🧰 Languages & Tools
-<p align="left">
-  <!-- Skillicons.dev (works fine) -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,figma,python,c,cpp,java,mysql,mongodb,php,ruby,graphql,git,github,flutter,firebase,opencv,tensorflow,aws,gcp,kotlin,vscode,arduino,docker,kubernetes" />
-
-  <!-- Custom Logos (not available in skillicons.dev) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="48" alt="Anaconda"/>
-  <img src="https://cdn.jsdelivr.net/gh/valohai/ml-logos/blob/master/keras.svg" height="48" alt="Keras"/>
-  <img src="https://cdn.jsdelivr.net/gh/scikit-learn/scikit-learn.github.io/main/logos/scikit-learn-logo-notext.svg" height="48" alt="Scikit-learn"/>
-  <img src="https://matplotlib.org/_static/images/logo2.svg" height="48" alt="Matplotlib"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="48" alt="Seaborn"/>
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="48" alt="LangChain"/>
-  <img src="https://raw.githubusercontent.com/microsoft/semantic-kernel/main/images/rag-icon.png" height="48" alt="RAG"/>
-</p>
-
-
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/InnovativeSumit/innovativesumit/blob/output/snake.svg" />
-
-</p>
-
 
 
 ### 🔥 About Me
@@ -77,15 +46,8 @@ I'm a creative tech enthusiast passionate about:
 - 🛠 Arduino, Raspberry Pi, Embedded Systems
 - 🤖 UiPath and AI Prompt Engineering
 
-### 💡 Fun Fact
-> I built a mini robot that followed voice commands—and danced when it completed tasks! 🤖💃
 
 
-
-### 📫 Reach Me At
-- Email: sumit2022pal@gmail.com
-- Portfolio: [🌐 My Portfolio Website](https://innovativesumit.github.io/SUMIT-S-PORTFOLIO-1ST-YEAR/)
-- GitHub Projects: [📁 Explore Here](https://github.com/InnovativeSumit?tab=repositories)
 
 ### 🤝 Let's Collaborate
 I'm open to collaboration on:
@@ -93,6 +55,27 @@ I'm open to collaboration on:
 - UI/UX design & improvements
 - Robotics and automation projects
 
+### 📫 Reach Me At
+- Email: sumit2022pal@gmail.com
+- Portfolio: [🌐 My Portfolio Website](https://innovativesumit.github.io/SUMIT-S-PORTFOLIO-1ST-YEAR/)
+- GitHub Projects: [📁 Explore Here](https://github.com/InnovativeSumit?tab=repositories)
+
+### 💡 Fun Fact
+> I built a mini robot that followed voice commands—and danced when it completed tasks! 🤖💃
+
+### 🧰 Languages & Tools
+<p align="left">
+  <!-- Skillicons.dev (works fine) -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,figma,python,c,cpp,java,mysql,mongodb,php,ruby,graphql,git,github,flutter,firebase,opencv,tensorflow,aws,gcp,kotlin,vscode,arduino,docker,kubernetes" />
+</p>
+
+
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/InnovativeSumit/innovativesumit/blob/output/snake.svg" />
+
+</p>
 
 
 
