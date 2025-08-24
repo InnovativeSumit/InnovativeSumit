@@ -59,10 +59,13 @@ I'm open to collaboration on:
 ### 💡 Fun Fact  
 >I made the **Smart Plastic Separation Car**, an autonomous and intelligent waste management system that integrates **AI, IoT, and Robotics** for efficient plastic segregation.  
 
+### 💡 Fun Fact  
+>I made the **Smart Plastic Separation Car**, an autonomous and intelligent waste management system that integrates **AI, IoT, and Robotics** for efficient plastic segregation.  
+
 ---
 
-### 🔧 Key Features  
-<blockquote style="background-color:#e6f2ff; border-left: 6px solid #1e90ff; padding: 10px; border-radius: 8px;">  
+<blockquote style="background-color:#e6f2ff; border-left: 6px solid #1e90ff; padding: 12px; border-radius: 8px;">  
+<h3>🔧 Key Features</h3>  
 
 - 📸 Uses **ESP32-CAM with Machine Learning** to detect and classify plastics into **dry and wet** categories.  
 - 🤖 Equipped with a **6-DOF Robotic Arm** (servo-controlled) for precise plastic sorting.  
@@ -70,13 +73,15 @@ I'm open to collaboration on:
 - 📡 Streams real-time data via **IoT protocols** to a web dashboard for remote monitoring.  
 - 🚗 Runs on an **autonomous vehicle base**, enabling smart navigation for efficient plastic collection.  
 - ⚡ Provides a **scalable and sustainable approach** to waste management by combining AI vision, robotics, and sensor feedback.  
-
 </blockquote>  
 
 ---
 
-### 📜 Patent Status  
-> This project has already been **filed for patent**.  
+<blockquote style="background-color:#e6f2ff; border-left: 6px solid #1e90ff; padding: 12px; border-radius: 8px;">  
+<h3>📜 Patent Status</h3>  
+This project has already been **filed for patent**.  
+</blockquote>  
+
 
 
 ### 🌐 Connect with Me
