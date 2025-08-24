@@ -19,34 +19,25 @@
 </p>
 
 ---
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://codeforces.com/profile/sumit2022" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
-<a href="https://leetcode.com/u/Sumit2022/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sumit-pal-40511a339" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/sumittech_360?igsh=MXh1eTlnenk5a3gzYg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCiPxbNaC7dloVut6Jc5xHIQ" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
-<a href="https://x.com/pal_sumit29941?t=ZdaNd4I6KFFL662AzCpv9w&s=09" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a
-</p>
 
+### 🔥 About Me  
+I'm a versatile **Tech Enthusiast & Prompt Strategist** passionate about:  
+- 🎨 Crafting clean, scalable, and interactive interfaces with **HTML, CSS, JS, TS, and modern frameworks (React, Next.js, Angular, Vue, Nuxt.js)**  
+- 🧠 Building robust **backends** with **Node.js, Express, Django, Flask, FastAPI, NestJS**  
+- 🗄 Designing and optimizing **databases** with **MySQL, PostgreSQL, MongoDB, Firebase, Redis**  
+- ☁️ Exploring **Cloud & DevOps** with **AWS, Azure, Docker, Kubernetes, Netlify, Vercel**  
+- 🤖 Innovating in **Robotics, IoT, and RPA** with **Arduino, Automation, and AI-driven Prompt Engineering**  
+- 📐 Practicing **UI/UX principles** using **Figma, Material UI, Tailwind, and Design Systems**  
 
-### 🔥 About Me
-I'm a creative tech enthusiast passionate about:
-- 🎨 Designing clean, user-friendly interfaces with HTML, CSS, JS
-- 🧠 Learning Python for backend & automation
-- 🤖 Innovating in Robotics and RPA
-- 📐 Practicing UI/UX design principles
-- 🤖 Automating tasks with Prompt Engineering
+---
 
-  
-
-### 🌱 Currently Learning
-- ⚛ React, Next.js, and UI frameworks
-- 🐍 Flask, FastAPI & Python automation tools (Selenium, PyAutoGUI)
-- 📐 Accessibility standards (WCAG), Design systems
-- 🛠 Arduino, Raspberry Pi, Embedded Systems
-- 🤖 UiPath and AI Prompt Engineering
-
+### 🌱 Currently Learning  
+- ⚛ **Advanced Frontend**: React, Next.js, Angular, Vue, and UI frameworks (Tailwind, Bootstrap, Material UI)  
+- 🐍 **Python Ecosystem**: Flask, FastAPI, Django, Selenium, PyAutoGUI, and automation tools  
+- ☁️ **Cloud & DevOps**: Docker, Kubernetes, AWS, Azure, CI/CD pipelines  
+- 🗄 **Databases**: PostgreSQL, MongoDB, Firebase, Redis, GraphQL APIs  
+- 🤖 **Robotics & Embedded Systems**: Arduino, Raspberry Pi, IoT applications  
+- 🤖 **AI & RPA**: UiPath, AI Prompt Engineering, and automation workflows  
 
 
 
@@ -68,6 +59,18 @@ I'm open to collaboration on:
 ### 💡 Fun Fact
 > I built a mini robot that followed voice commands—and danced when it completed tasks! 🤖💃
 > 
+
+
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://codeforces.com/profile/sumit2022" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Sumit2022/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sumit-pal-40511a339" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/sumittech_360?igsh=MXh1eTlnenk5a3gzYg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCiPxbNaC7dloVut6Jc5xHIQ" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
+<a href="https://x.com/pal_sumit29941?t=ZdaNd4I6KFFL662AzCpv9w&s=09" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a
+</p>
+
 
 
 ### 🧰 Languages & Tools
