@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=innovativesumit&label=👀%20Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-
+---
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -17,24 +17,43 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovativesumit&layout=compact&theme=radical&card_width=400" width="400" height="200" alt="Top Languages"/>
 </p>
 
-
+---
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://twitter.com/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
+<a href="https://www.leetcode.com/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white"/></a>
 <a href="https://linkedin.com/in/sumit pal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/sumittech_360" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.youtube.com/c/sumittech_360" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
-<a href="https://www.leetcode.com/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white"/></a>
+<a href="https://twitter.com/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a
+<!-- <a href="https://www.codechef.com/users/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/></a> -->
+<!-- <a href="https://www.hackerrank.com/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white"/></a> -->
+
+
 </p>
 
 
 ### 🧰 Languages & Tools
 <p align="left">
+  <!-- Skillicons.dev (original set) -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,figma,python,c,cpp,java,mysql,mongodb,php,ruby,graphql,git,github,flutter,firebase,opencv,tensorflow,aws,gcp,kotlin,vscode,arduino" />
+
+  <!-- Extra Logos -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/valohai/ml-logos/blob/master/keras.svg" height="48" alt="Keras"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="48" alt="Anaconda"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/scikit-learn/scikit-learn.github.io/main/logos/scikit-learn-logo-notext.svg" height="48" alt="Scikit-learn"/>
+  <img src="https://matplotlib.org/_static/images/logo2.svg" height="48" alt="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="48" alt="Seaborn"/>
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="48" alt="LangChain"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="48" alt="Kubernetes"/>
+  <img src="https://raw.githubusercontent.com/microsoft/semantic-kernel/main/images/rag-icon.png" height="48" alt="RAG"/>
 </p>
+
 
 ### 🐍 Contribution Snake
 <p align="center">
