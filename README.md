@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello World, I'm SUMIT PAL!</h1>
 
-<h3 align="center">💻 Fill Stack Web Developer | 🐍 Python Enthusiast | 🎨 UI/UX Designer | 🤖 Robotics & RPA Explorer</h3>
+<h3 align="center"> 🎨 UI/UX Designer | 💻 Fill Stack Web Developer | 🐍 Python Developer | 🤖 AI/ML Enthusiast | 🤖 Robotics & RPA Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Passionate+about+Tech+%26+Creativity;Always+Building+%26+Learning!" alt="Typing SVG" />
