@@ -48,16 +48,12 @@ I'm open to collaboration on:
 - Robotics and automation projects
 
 
-
 ### 📫 Reach Me At
 - Email: sumit2022pal@gmail.com
 - Portfolio: [My Portfolio Website](https://sumit-portfolio-green.vercel.app/)
 - GitHub Projects: [Explore Here](https://github.com/InnovativeSumit?tab=repositories)
 
 
-
-### 💡 Fun Fact  
->I made the **Smart Plastic Separation Car**, an autonomous and intelligent waste management system that integrates **AI, IoT, and Robotics** for efficient plastic segregation.  
 
 ### 💡 Fun Fact  
 >I made the **Smart Plastic Separation Car**, an autonomous and intelligent waste management system that integrates **AI, IoT, and Robotics** for efficient plastic segregation.  
@@ -80,6 +76,8 @@ I'm open to collaboration on:
 <h3>📜 Patent Status</h3>  
 This project has already been **filed for patent**.  
 </blockquote>  
+
+
 
 
 
