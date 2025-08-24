@@ -72,7 +72,7 @@ I'm open to collaboration on:
 
 ### 🧰 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,nuxtjs,tailwind,bootstrap,materialui,vite,webpack,threejs,nodejs,express,django,flask,fastapi,nestjs,npm,yarn,pnpm,mysql,postgresql,mongodb,firebase,redis,aws,gcp,azure,netlify,vercel,python,docker,kubernetes,jenkins,ansible,terraform,docker,kubernetes,jenkins,ansible,terraform,c,cpp,java,laravel,ruby,rails,go,rust,java,spring,graphql,apollo,remix,flutter,dart,kotlin,swift,androidstudio,git,github,gitlab,bitbucket,figma,blender,linux,bash,powershell,vscode,arduino" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,nuxtjs,tailwind,bootstrap,materialui,vite,webpack,threejs,nodejs,express,django,flask,fastapi,nestjs,npm,yarn,pnpm,mysql,postgresql,mongodb,firebase,redis,aws,gcp,azure,netlify,vercel,python,docker,kubernetes,c,cpp,java,laravel,ruby,rails,go,rust,java,spring,graphql,apollo,remix,flutter,dart,kotlin,swift,androidstudio,git,github,gitlab,bitbucket,figma,blender,linux,bash,powershell,vscode,arduino" />
 </p>
 
 
