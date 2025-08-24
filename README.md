@@ -71,9 +71,82 @@ I'm open to collaboration on:
 
 
 ### 🧰 Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,bootstrap,materialui,angular,vue,nuxtjs,svelte,solid,figma,xd,python,c,cpp,cs,java,kotlin,swift,dart,flutter,go,rust,php,ruby,rails,graphql,apollo,mysql,postgresql,mongodb,sqlite,firebase,redis,elasticsearch,aws,gcp,azure,heroku,netlify,vercel,docker,kubernetes,linux,bash,powershell,git,github,gitlab,bitbucket,vscode,idea,androidstudio,eclipse,tensorflow,pytorch,opencv,sklearn,fastapi,django,flask,phpstorm,blender,unity,unreal,threejs,webpack,vite,npm,yarn,pnpm" />
+
+#### 1️⃣ Frontend Web
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,nuxtjs,svelte,solid,tailwind,bootstrap,materialui,vite,webpack,threejs" />
 </p>
+
+#### 2️⃣ Backend Web
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,nestjs,php,laravel,ruby,rails,go,rust,cs,java,spring" />
+</p>
+
+#### 3️⃣ Full-Stack Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=graphql,apollo,rest,blitz,remix" />
+</p>
+
+#### 4️⃣ Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio" />
+</p>
+
+#### 5️⃣ Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,go,rust,php,ruby,dart,kotlin,swift" />
+</p>
+
+#### 6️⃣ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,firebase,redis,elasticsearch" />
+</p>
+
+#### 7️⃣ Cloud Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,heroku,netlify,vercel" />
+</p>
+
+#### 8️⃣ DevOps & Containers
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,terraform" />
+</p>
+
+#### 9️⃣ Version Control & Collaboration
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" />
+</p>
+
+#### 🔟 AI / ML / Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+</p>
+
+#### 1️⃣1️⃣ Design & Prototyping
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,xd,blender" />
+</p>
+
+#### 1️⃣2️⃣ Game Development
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,unreal" />
+</p>
+
+#### 1️⃣3️⃣ Package Managers
+<p>
+  <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm" />
+</p>
+
+#### 1️⃣4️⃣ Operating Systems & Shells
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,powershell" />
+</p>
+
+#### 1️⃣5️⃣ IDEs & Editors
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,phpstorm" />
+</p>
+
 
 
 
