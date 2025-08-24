@@ -52,7 +52,7 @@ I'm open to collaboration on:
 - Email: sumit2022pal@gmail.com
 - Portfolio: [My Portfolio Website](https://sumit-portfolio-green.vercel.app/)
 - GitHub Projects: [Explore Here](https://github.com/InnovativeSumit?tab=repositories)
-- My Blogs : [Click Here](https://medium.com/@sumit2022pal/)
+- My Blogs : [Medium](https://medium.com/@sumit2022pal/)
 
 
 
