@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://codeforces.com/profile/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
 <a href="https://www.leetcode.com/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white"/></a>
-<a href="https://linkedin.com/in/sumit pal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="linkedin.com/in/sumit-pal-40511a339/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/sumittech_360" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.youtube.com/c/sumittech_360" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
 <a href="https://twitter.com/sumit-pal" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a
@@ -60,8 +60,8 @@ I'm open to collaboration on:
 
 ### 📫 Reach Me At
 - Email: sumit2022pal@gmail.com
-- Portfolio: [🌐 My Portfolio Website](https://sumit-portfolio-green.vercel.app/)
-- GitHub Projects: [📁 Explore Here](https://github.com/InnovativeSumit?tab=repositories)
+- Portfolio: [My Portfolio Website](https://sumit-portfolio-green.vercel.app/)
+- GitHub Projects: [Explore Here](https://github.com/InnovativeSumit?tab=repositories)
 
 
 
