@@ -15,7 +15,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=innovativesumit&show_icons=true&theme=radical&card_width=400" width="400" height="200" alt="Sumit's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovativesumit&layout=compact&theme=radical&card_width=400" width="400" height="210" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovativesumit&layout=compact&theme=radical&card_width=400" width="400" height="250" alt="Top Languages"/>
 </p>
 
 ---
