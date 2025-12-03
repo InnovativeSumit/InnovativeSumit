@@ -96,7 +96,14 @@ This project has already been **filed for patent**.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,nuxtjs,tailwind,bootstrap,materialui,vite,webpack,threejs,nodejs,express,django,flask,fastapi,nestjs,npm,yarn,pnpm,mysql,postgresql,mongodb,firebase,redis,aws,azure,netlify,vercel,python,docker,kubernetes,c,cpp,ruby,rails,go,rust,java,spring,graphql,flutter,dart,kotlin,swift,androidstudio,git,github,gitlab,figma,blender,linux,bash,powershell,vscode,arduino" />
 </p>
+---
+## 🏆 GitHub Profile Trophy
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=innovativesumit&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
+</p>
+
+---
 
 
 
@@ -107,6 +114,13 @@ This project has already been **filed for patent**.
 
 </p>
 
+---
+## 🔥 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=innovativesumit&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
 
 
 
