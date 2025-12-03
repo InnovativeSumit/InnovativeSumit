@@ -23,6 +23,20 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,nuxtjs,tailwind,bootstrap,materialui,vite,webpack,threejs,nodejs,express,django,flask,fastapi,nestjs,npm,yarn,pnpm,mysql,postgresql,mongodb,firebase,redis,aws,azure,netlify,vercel,python,docker,kubernetes,c,cpp,ruby,rails,go,rust,java,spring,graphql,flutter,dart,kotlin,swift,androidstudio,git,github,gitlab,figma,blender,linux,bash,powershell,vscode,arduino" />
 </p>
 
+---
+
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://codeforces.com/profile/sumit2022" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Sumit2022/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sumit-pal-40511a339" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/sumittech_360?igsh=MXh1eTlnenk5a3gzYg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCiPxbNaC7dloVut6Jc5xHIQ" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
+<a href="https://x.com/pal_sumit29941?t=ZdaNd4I6KFFL662AzCpv9w&s=09" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a
+</p>
+
+===
+
 ### 🔥 About Me  
 I'm a versatile **Tech Enthusiast & Prompt Strategist** passionate about:  
 - 🎨 Crafting clean, scalable, and interactive interfaces with **HTML, CSS, JS, TS, and modern frameworks (React, Next.js, Angular, Vue, Nuxt.js)**  
@@ -80,23 +94,6 @@ I'm open to collaboration on:
 <h3>📜 Patent Status</h3>  
 This project has already been **filed for patent**.  
 </blockquote>  
-
-
-
-
-
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://codeforces.com/profile/sumit2022" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
-<a href="https://leetcode.com/u/Sumit2022/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sumit-pal-40511a339" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/sumittech_360?igsh=MXh1eTlnenk5a3gzYg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCiPxbNaC7dloVut6Jc5xHIQ" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
-<a href="https://x.com/pal_sumit29941?t=ZdaNd4I6KFFL662AzCpv9w&s=09" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a
-</p>
-
-
-
 
 ---
 
