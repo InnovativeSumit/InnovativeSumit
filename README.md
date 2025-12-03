@@ -10,20 +10,17 @@
   <img src="https://komarev.com/ghpvc/?username=innovativesumit&label=👀%20Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
----
+
 
 ### 📊 GitHub Stats 
 <p align="center">   <img src="https://github-readme-stats.vercel.app/api?username=innovativesumit&show_icons=true&theme=radical&card_width=400" width="400" height="225" alt="Sumit's GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovativesumit&layout=compact&theme=radical&card_width=400" width="400" height="225" alt="Top Languages"/> </p>
 
-
----
 
 ### 🧰 Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,nuxtjs,tailwind,bootstrap,materialui,vite,webpack,threejs,nodejs,express,django,flask,fastapi,nestjs,npm,yarn,pnpm,mysql,postgresql,mongodb,firebase,redis,aws,azure,netlify,vercel,python,docker,kubernetes,c,cpp,ruby,rails,go,rust,java,spring,graphql,flutter,dart,kotlin,swift,androidstudio,git,github,gitlab,figma,blender,linux,bash,powershell,vscode,arduino" />
 </p>
 
----
 
 ### 🌐 Connect with Me
 <p align="left">
@@ -35,7 +32,6 @@
 <a href="https://x.com/pal_sumit29941?t=ZdaNd4I6KFFL662AzCpv9w&s=09" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a
 </p>
 
-===
 
 ### 🔥 About Me  
 I'm a versatile **Tech Enthusiast & Prompt Strategist** passionate about:  
@@ -95,7 +91,7 @@ I'm open to collaboration on:
 This project has already been **filed for patent**.  
 </blockquote>  
 
----
+
 
 
 ### 🐍 Contribution Snake
@@ -112,7 +108,7 @@ This project has already been **filed for patent**.
 </p>
 
 
----
+
 ## 🔥 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=innovativesumit&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
