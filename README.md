@@ -43,7 +43,11 @@ I'm a versatile **Tech Enthusiast & Prompt Strategist** passionate about:
 - 🤖 Innovating in **Robotics, IoT, and RPA** with **Arduino, Automation, and AI-driven Prompt Engineering**  
 - 📐 Practicing **UI/UX principles** using **Figma, Material UI, Tailwind, and Design Systems**  
 
+## 🏆 GitHub Profile Trophy
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=innovativesumit&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
+</p>
 
 ### 🌱 Currently Learning  
 - ⚛ **Advanced Frontend**: React, Next.js, Angular, Vue, and UI frameworks (Tailwind, Bootstrap, Material UI)  
@@ -52,6 +56,12 @@ I'm a versatile **Tech Enthusiast & Prompt Strategist** passionate about:
 - 🗄 **Databases**: PostgreSQL, MongoDB, Firebase, Redis, GraphQL APIs  
 - 🤖 **Robotics & Embedded Systems**: Arduino, Raspberry Pi, IoT applications  
 - 🤖 **AI & RPA**: UiPath, AI Prompt Engineering, and automation workflows  
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/InnovativeSumit/innovativesumit/blob/output/snake.svg" />
+
+</p>
 
 
 
@@ -92,21 +102,6 @@ I'm open to collaboration on:
 This project has already been **filed for patent**.  
 </blockquote>  
 
-
-
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/InnovativeSumit/innovativesumit/blob/output/snake.svg" />
-
-</p>
-
-
-## 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=innovativesumit&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
-</p>
 
 
 
