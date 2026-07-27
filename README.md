@@ -27,6 +27,7 @@
 </p>
 
 
+
 ### 🧰 Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,tailwind,bootstrap,materialui,vite,webpack,threejs,nodejs,express,python,flask,fastapi,npm,yarn,pnpm,mysql,postgresql,mongodb,firebase,redis,aws,azure,netlify,vercel,docker,kubernetes,c,cpp,go,rust,java,spring,graphql,git,github,gitlab,figma,blender,bash,powershell,vscode,arduino" />
